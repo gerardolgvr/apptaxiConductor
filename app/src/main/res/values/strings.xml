@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Xiimbal</string>
+    <string name="title_activity_referencia">ReferenciaActivity</string>
+    <string name="hint_username">Nombre de Usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="text_button_login">Login</string>
+    <string name="dont_have_account">¿No tienes cuenta?,   </string>
+    <string name="create_here">Crea una aquí</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_user">Usuario</string>
+    <string name="hint_confirm_password">Confirmar contraseña</string>
+    <string name="text_button_createaccount">Únete</string>
+    <string name="toolbar_title_createaccount">Crear Cuenta</string>
+    <string name="hint_cellphone">Celular</string>
+    <string name="text_button_confirmdata">Guardar</string>
+    <string name="hint_birthdate">Fecha Nacimiento</string>
+    <string name="hint_address">Dirección</string>
+    <string name="text_button_fechaNac">Escoger</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_dashboard">Historial</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_button_solicitarServicio">Buscar Servicio</string>
+    <string name="firebase_error_login">Error al iniciar sesión</string>
+</resources>
